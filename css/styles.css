@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+    padding: 30px 30px 0px 100px;
+    display: flex;
+    justify-content: space-around;
+    height: 88vh;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.1);
+
+
+
+}
+
+.banner-img {
+    width: 450px;
+
+
+
+}
+
+.text-size {
+    font-size: 55px;
+    font-weight: bold;
+
+
+}
+
+.description {
+    font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgba(39, 39, 39, 0.60);
+
+}
+
+.btn {
+    font-size: large;
+    padding: 15px 25px;
+    background-color: rgba(229, 84, 115, 1);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.hot-deals {
+    padding: 50px 50px 50px 50px;
+    background-color: rgba(229, 84, 115, 0.05);
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.deals-head {
+    color: #272727;
+    font-size: 35px;
+    font-weight: 800;
+   margin-bottom: 5px;
+   text-align: center;
+}
+
+.deals-des {
+    color: rgba(39, 39, 39, 0.6);
+    padding: 5px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+}
+.btn-primary{
+    margin: 10px 10px 10px 200px;
+}
+.primary{
+    color: rgba(229, 84, 115, 1);
+}
+.deals-img{
+    width: 280px;
+
+}
+.display{
+    height: 100vh;
+}
+.insta{
+    text-align: center;
+  
+}
+.ins-head{
+    font-size: 35px;
+    padding: 10px;
+}
+.ins-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+
+}
+.display-image{
+    display: flex;
+    gap: 10px;
+    margin: 0px 30px 10px 100px;
+
+}
+.subscription{
+    margin: 50px 150px;
+    padding: 100px 30px 50px 30px;
+    height: 150px;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-image: url(../Rectangle\ 9.png)
+    
+}
+.box{
+    width: 700px;
+height: 50px;
+background: #FFF;
+border-radius: 8px;
+border: rgba(255, 255, 255, 1);
+}

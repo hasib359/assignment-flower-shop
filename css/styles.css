@@ -82,9 +82,10 @@ body {
     background-color: rgba(229, 84, 115, 0.1);
     margin-top: 50px;
     height: 40vh;
-    font-size: x-large;
+    font-size: 30px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 40px;
+    
 }
 .hot-deals {
     padding: 50px 50px 50px 50px;

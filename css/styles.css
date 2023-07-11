@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+
 }
 
 body {
@@ -63,8 +64,8 @@ body {
     color: #272727;
     font-size: 35px;
     font-weight: 800;
-   margin-bottom: 5px;
-   text-align: center;
+    margin-bottom: 5px;
+    text-align: center;
 }
 
 .deals-des {
@@ -74,52 +75,77 @@ body {
     width: 100%;
     margin: auto;
 }
-.btn-primary{
+
+.btn-primary {
     margin: 10px 10px 10px 200px;
 }
-.primary{
+
+.primary {
     color: rgba(229, 84, 115, 1);
 }
-.deals-img{
+
+.deals-img {
     width: 280px;
 
+
 }
-.display{
+
+.display {
     height: 100vh;
 }
-.insta{
+
+.insta {
     text-align: center;
-  
+
 }
-.ins-head{
+
+.ins-head {
     font-size: 35px;
     padding: 10px;
 }
-.ins-des{
+
+.ins-des {
     color: rgba(39, 39, 39, 0.60);
-text-align: center;
-font-size: 18px;
+    text-align: center;
+    font-size: 18px;
 
 }
-.display-image{
+
+.display-image {
     display: flex;
     gap: 10px;
     margin: 0px 30px 10px 100px;
 
 }
-.subscription{
+
+.subscription {
     margin: 50px 150px;
     padding: 100px 30px 50px 30px;
     height: 150px;
     background-repeat: no-repeat;
     text-align: center;
-    background-image: url(../Rectangle\ 9.png)
-    
+    background-image: url(../Rectangle\ 9.png);
+
+
 }
-.box{
+
+.box {
     width: 700px;
-height: 50px;
-background: #FFF;
-border-radius: 8px;
-border: rgba(255, 255, 255, 1);
+    height: 50px;
+    background: #FFF;
+    border-radius: 8px;
+    border: rgba(255, 255, 255, 1);
+
+}
+
+.about{
+    height: 35vh;
+    background-color: rgba(17, 16, 16, 1);
+    color: white;
+    margin-top: 200px;
+}
+.about-res{
+    color: rgba(255, 255, 255, 0.4);
+    font-size: 15px;
+    margin-top: 5px;
 }

@@ -10,6 +10,7 @@ body {
 
 .banner {
     padding: 30px 30px 0px 100px;
+    margin-bottom: 80px;
     display: flex;
     justify-content: space-around;
     height: 88vh;
@@ -58,6 +59,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 50px;
 }
 
 .deals-head {
@@ -138,14 +140,77 @@ body {
 
 }
 
-.about{
+.about {
     height: 35vh;
     background-color: rgba(17, 16, 16, 1);
     color: white;
     margin-top: 200px;
 }
-.about-res{
+
+.about-res {
     color: rgba(255, 255, 255, 0.4);
     font-size: 15px;
     margin-top: 5px;
+}
+.featured{
+    height: 100vh;
+}
+.featured-head{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.featured-img {
+    
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    
+}
+
+.pink {
+    background-color: rgba(167, 33, 98, 0.15);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    width: 350px;
+    height: 500px;
+    align-items: center;
+    padding: 30px 15px 5px 15px;
+}
+.red{
+    background-color: rgba(5, 151, 160, 0.15);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    width: 350px;
+    height: 500px;
+    align-items: center;
+    padding: 30px 15px 5px 15px;
+    
+}
+.yellow{
+    background-color: rgba(71, 125, 17, 0.15);
+    border-top-left-radius: 200px;
+    border-top-right-radius: 200px;
+    width: 350px;
+    height: 500px;
+    align-items: center;
+    padding: 30px 15px 5px 15px;
+
+
+}
+.name{
+    margin-bottom: 50px;
+}
+
+ul{
+    font-size: 35px;
+    gap: 100px;
+    text-decoration: underline;
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 80px;
 }
